@@ -1,0 +1,2 @@
+simple_colors==0.1.5
+pyfiglet==0.8.post1
